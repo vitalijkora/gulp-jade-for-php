@@ -1,0 +1,24 @@
+{
+  "name": "gulp-phpjade",
+  "version": "1.0.0",
+  "description": "a gulp plugin for jade template adapt for php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/postor/gulp-phpjade.git"
+  },
+  "keywords": [
+    "gulp",
+    "jade",
+    "php"
+  ],
+  "author": "postor@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/gulp-phpjade/issues"
+  },
+  "homepage": "https://github.com/postor/gulp-phpjade"
+}
