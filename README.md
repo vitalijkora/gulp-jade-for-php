@@ -22,24 +22,6 @@ usage:
 这个模块依赖jadegulp.
 
 ## Documentation
-### API
-#### init(jade)
-Attach this modifier to Jade template engine.  
-
-#### restore()
-Remove this modifier from Jade template engine.
-
-### Options(passed as options for jade API)
-#### usestrip
-Set this option to true to support 'nameless' attributes.  
-
-```javascript
-var jade = require('jade');
-var phpjade = require('phpjade');
-phpjade.init(jade);
-var fn = jade.compileFile(filepath, { usestring:true });
-
-```
 
 ### Modified syntax
 The following syntax sample is formatted as if pretty print option is set.
