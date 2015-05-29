@@ -8,6 +8,8 @@ This module is based on the well written jadegulp.
 
 usage:
 
+    npm install gulp-phpjade
+
     var phpJade = require('gulp-phpjade');
     gulp.task('jade-php', function() {
 	  gulp.src('../**/*.jade')
