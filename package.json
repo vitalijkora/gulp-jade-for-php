@@ -23,7 +23,7 @@
   "homepage": "https://github.com/postor/gulp-phpjade",
   "dependencies": {
     "gulp-util": "^3.0.4",
-    "jade": "^1.10.0",
+    "jade": "1.10.0",
     "phpjade": "^1.2.0",
     "through2": "^0.6.5"
   }
