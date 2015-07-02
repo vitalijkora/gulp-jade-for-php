@@ -1,4 +1,4 @@
-# gulp-phpjade #
+# gulp-jade-for-php #
 
 Compiles jade-php templates using gulp.
 
@@ -8,9 +8,9 @@ This module is based on the well written jadegulp.
 
 usage:
 
-    npm install gulp-phpjade
+    npm install gulp-jade-for-php
 
-    var phpJade = require('gulp-phpjade');
+    var phpJade = require('gulp-jade-for-php');
     gulp.task('jade-php', function() {
 	  gulp.src('../**/*.jade')
 	    .pipe(phpJade())
