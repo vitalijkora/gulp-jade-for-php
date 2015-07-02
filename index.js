@@ -5,7 +5,7 @@ var phpjade = require('phpjade');
 var ext = require('gulp-util').replaceExtension;
 
 //定义插件名称
-const PLUGIN_NAME = 'gulp-phpjade';
+const PLUGIN_NAME = 'gulp-jade-for-php';
 
 //phpjade针对jade引擎进行修改
 phpjade.init(jade); // apply modifier. 
