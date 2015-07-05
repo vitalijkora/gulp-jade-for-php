@@ -27,7 +27,7 @@ module.exports = function (opt) {
 
 	    if (file.isBuffer()) {
 	      //把传入流处理成输出流
-	      var newContents = jade.render(String(file.contents));
+	      var newContents = jade.render(String(file.contents), opt);
 	      file.contents = new Buffer(newContents);
 	    }
 	    
