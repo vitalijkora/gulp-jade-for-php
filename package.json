@@ -1,6 +1,6 @@
 {
   "name": "gulp-phpjade",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "a gulp plugin for jade template adapt for php",
   "main": "index.js",
   "scripts": {
