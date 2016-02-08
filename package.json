@@ -1,5 +1,5 @@
 {
-  "name": "gulp-phpjade",
+  "name": "gulp-jade-for-php",
   "version": "1.1.0",
   "description": "a gulp plugin for jade template adapt for php",
   "main": "index.js",
